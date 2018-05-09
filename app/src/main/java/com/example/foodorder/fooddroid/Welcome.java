@@ -86,10 +86,7 @@ public class Welcome extends AppCompatActivity {
         searchBar=findViewById(R.id.searchBox);
 
 
-        searchBar.setHint("(Functionality Not Implemented)");
-
-
-
+        searchBar.setHint("Implementation pending");
 
 
     }
