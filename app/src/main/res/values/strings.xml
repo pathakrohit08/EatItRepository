@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FoodDroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="slogan">Not a member?</string>
+    <string name="termsandconditions">By tapping Continue, Create account, I agree to Term of service, Payment terms of service, Privacy policy and Nondiscrimination policy</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="welcomeText">Glad to have you on board!!</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_msg">Messages</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>
